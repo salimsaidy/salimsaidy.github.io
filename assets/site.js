@@ -3,6 +3,7 @@
 const menu = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('#navigation');
 if (menu && navigation) {
+  document.documentElement.classList.add('menu-ready');
   menu.addEventListener('click', () => {
     const expanded = menu.getAttribute('aria-expanded') === 'true';
     menu.setAttribute('aria-expanded', String(!expanded));
