@@ -1,0 +1,121 @@
+year,election_date,area,region,candidate,party,votes,share_of_valid_pct,registered,ballots_cast,turnout_pct,source_file
+2006,22 September 2006,Banjul,City of Banjul,Yahya Jammeh,APRC,7908,69.09,19892,11446,57.54,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Banjul,City of Banjul,Ousainou Darboe,UDP,2739,23.93,19892,11446,57.54,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Banjul,City of Banjul,Halifa Sallah,NADD,799,6.98,19892,11446,57.54,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Kanifing,Kanifing Municipality,Yahya Jammeh,APRC,47490,63.75,129014,74489,57.74,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Kanifing,Kanifing Municipality,Ousainou Darboe,UDP,21496,28.86,129014,74489,57.74,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Kanifing,Kanifing Municipality,Halifa Sallah,NADD,5503,7.39,129014,74489,57.74,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Brikama,West Coast,Yahya Jammeh,APRC,77831,74.38,163675,104633,63.93,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Brikama,West Coast,Ousainou Darboe,UDP,23147,22.12,163675,104633,63.93,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Brikama,West Coast,Halifa Sallah,NADD,3655,3.49,163675,104633,63.93,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Kerewan,North Bank,Yahya Jammeh,APRC,40733,74.98,94579,54327,57.44,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Kerewan,North Bank,Ousainou Darboe,UDP,10833,19.94,94579,54327,57.44,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Kerewan,North Bank,Halifa Sallah,NADD,2761,5.08,94579,54327,57.44,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Mansakonko,Lower River,Yahya Jammeh,APRC,16199,56.31,51979,28765,55.34,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Mansakonko,Lower River,Ousainou Darboe,UDP,11974,41.63,51979,28765,55.34,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Mansakonko,Lower River,Halifa Sallah,NADD,592,2.06,51979,28765,55.34,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Janjanbureh,Central River,Yahya Jammeh,APRC,38234,62.94,106931,60744,56.81,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Janjanbureh,Central River,Ousainou Darboe,UDP,19527,32.15,106931,60744,56.81,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Janjanbureh,Central River,Halifa Sallah,NADD,2983,4.91,106931,60744,56.81,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Basse,Upper River,Yahya Jammeh,APRC,36009,61.79,104266,58281,55.9,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Basse,Upper River,Ousainou Darboe,UDP,15092,25.9,104266,58281,55.9,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,Basse,Upper River,Halifa Sallah,NADD,7180,12.32,104266,58281,55.9,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,National,,Yahya Jammeh,APRC,264404,67.33,670336,392685,58.58,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,National,,Ousainou Darboe,UDP,104808,26.69,670336,392685,58.58,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2006,22 September 2006,National,,Halifa Sallah,NADD,23473,5.98,670336,392685,58.58,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2006.pdf
+2011,24 November 2011,Banjul,City of Banjul,Yahya Jammeh,APRC,12761,73.27,21178,17416,82.24,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Banjul,City of Banjul,Ousainou Darboe,UDP,2909,16.7,21178,17416,82.24,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Banjul,City of Banjul,Hamat Bah,Independent (United Front),1746,10.03,21178,17416,82.24,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Kanifing,Kanifing Municipality,Yahya Jammeh,APRC,96890,63.83,187751,151794,80.85,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Kanifing,Kanifing Municipality,Ousainou Darboe,UDP,35627,23.47,187751,151794,80.85,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Kanifing,Kanifing Municipality,Hamat Bah,Independent (United Front),19277,12.7,187751,151794,80.85,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Brikama,West Coast,Yahya Jammeh,APRC,156023,72.49,252736,215305,85.19,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Brikama,West Coast,Ousainou Darboe,UDP,37938,17.63,252736,215305,85.19,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Brikama,West Coast,Hamat Bah,Independent (United Front),21267,9.88,252736,215305,85.19,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Kerewan,North Bank,Yahya Jammeh,APRC,59068,77.63,90671,76089,83.92,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Kerewan,North Bank,Ousainou Darboe,UDP,10222,13.43,90671,76089,83.92,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Kerewan,North Bank,Hamat Bah,Independent (United Front),6795,8.93,90671,76089,83.92,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Mansakonko,Lower River,Yahya Jammeh,APRC,26269,71.43,43674,36774,84.2,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Mansakonko,Lower River,Ousainou Darboe,UDP,8452,22.98,43674,36774,84.2,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Mansakonko,Lower River,Hamat Bah,Independent (United Front),2053,5.58,43674,36774,84.2,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Janjanbureh,Central River,Yahya Jammeh,APRC,59723,72.12,100381,82825,82.51,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Janjanbureh,Central River,Ousainou Darboe,UDP,11062,13.36,100381,82825,82.51,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Janjanbureh,Central River,Hamat Bah,Independent (United Front),12026,14.52,100381,82825,82.51,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Basse,Upper River,Yahya Jammeh,APRC,59816,77.0,100538,77701,77.29,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Basse,Upper River,Ousainou Darboe,UDP,7967,10.26,100538,77701,77.29,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,Basse,Upper River,Hamat Bah,Independent (United Front),9896,12.74,100538,77701,77.29,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,National,,Yahya Jammeh,APRC,470550,71.54,796929,657904,82.55,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,National,,Ousainou Darboe,UDP,114177,17.36,796929,657904,82.55,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2011,24 November 2011,National,,Hamat Bah,Independent (United Front),73060,11.11,796929,657904,82.55,https://iec.gm/wp-content/uploads/2023/06/PRESIDENTIAL-ELECTION-RESULTS-24th-NOVEMBER-2011.pdf
+2016,1 December 2016,Banjul,City of Banjul,Adama Barrow,Coalition 2016,6639,49.65,22731,13371,58.82,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Banjul,City of Banjul,Yahya Jammeh,APRC,5704,42.66,22731,13371,58.82,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Banjul,City of Banjul,Mama Kandeh,GDC,1028,7.69,22731,13371,58.82,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Kanifing,Kanifing Municipality,Adama Barrow,Coalition 2016,56107,50.05,199957,112012,56.02,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Kanifing,Kanifing Municipality,Yahya Jammeh,APRC,44873,40.03,199957,112012,56.02,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Kanifing,Kanifing Municipality,Mama Kandeh,GDC,11127,9.93,199957,112012,56.02,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Brikama,West Coast,Adama Barrow,Coalition 2016,74823,43.16,281115,173281,61.64,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Brikama,West Coast,Yahya Jammeh,APRC,76880,44.35,281115,173281,61.64,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Brikama,West Coast,Mama Kandeh,GDC,21656,12.49,281115,173281,61.64,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Kerewan,North Bank,Adama Barrow,Coalition 2016,23346,36.65,101717,63710,62.63,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Kerewan,North Bank,Yahya Jammeh,APRC,18316,28.75,101717,63710,62.63,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Kerewan,North Bank,Mama Kandeh,GDC,22039,34.6,101717,63710,62.63,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Mansakonko,Lower River,Adama Barrow,Coalition 2016,16476,55.81,49198,29538,60.04,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Mansakonko,Lower River,Yahya Jammeh,APRC,7996,27.09,49198,29538,60.04,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Mansakonko,Lower River,Mama Kandeh,GDC,5048,17.1,49198,29538,60.04,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Janjanbureh,Central River,Adama Barrow,Coalition 2016,22215,31.72,116675,70046,60.04,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Janjanbureh,Central River,Yahya Jammeh,APRC,30228,43.17,116675,70046,60.04,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Janjanbureh,Central River,Mama Kandeh,GDC,17581,25.11,116675,70046,60.04,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Basse,Upper River,Adama Barrow,Coalition 2016,28102,43.99,115185,63909,55.48,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Basse,Upper River,Yahya Jammeh,APRC,24490,38.34,115185,63909,55.48,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,Basse,Upper River,Mama Kandeh,GDC,11289,17.67,115185,63909,55.48,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,National,,Adama Barrow,Coalition 2016,227708,43.29,886578,525867,59.31,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,National,,Yahya Jammeh,APRC,208487,39.64,886578,525867,59.31,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2016,1 December 2016,National,,Mama Kandeh,GDC,89768,17.07,886578,525867,59.31,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-1st-December-2016.pdf
+2021,4 December 2021,Banjul,City of Banjul,Adama Barrow,NPP,11820,62.29,21372,18977,88.79,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Banjul,City of Banjul,Ousainou Darboe,UDP,4088,21.54,21372,18977,88.79,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Banjul,City of Banjul,Mama Kandeh,GDC,674,3.55,21372,18977,88.79,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Banjul,City of Banjul,Halifa Sallah,PDOIS,1731,9.12,21372,18977,88.79,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Banjul,City of Banjul,Essa Faal,Independent,612,3.22,21372,18977,88.79,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Banjul,City of Banjul,Abdoulie Ebrima Jammeh,NUP,52,0.27,21372,18977,88.79,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kanifing,Kanifing Municipality,Adama Barrow,NPP,80295,49.67,179800,161672,89.92,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kanifing,Kanifing Municipality,Ousainou Darboe,UDP,48258,29.85,179800,161672,89.92,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kanifing,Kanifing Municipality,Mama Kandeh,GDC,16819,10.4,179800,161672,89.92,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kanifing,Kanifing Municipality,Halifa Sallah,PDOIS,11990,7.42,179800,161672,89.92,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kanifing,Kanifing Municipality,Essa Faal,Independent,3643,2.25,179800,161672,89.92,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kanifing,Kanifing Municipality,Abdoulie Ebrima Jammeh,NUP,667,0.41,179800,161672,89.92,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Brikama,West Coast,Adama Barrow,NPP,141972,43.78,359451,324249,90.21,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Brikama,West Coast,Ousainou Darboe,UDP,105076,32.41,359451,324249,90.21,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Brikama,West Coast,Mama Kandeh,GDC,56936,17.56,359451,324249,90.21,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Brikama,West Coast,Halifa Sallah,PDOIS,10727,3.31,359451,324249,90.21,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Brikama,West Coast,Essa Faal,Independent,6964,2.15,359451,324249,90.21,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Brikama,West Coast,Abdoulie Ebrima Jammeh,NUP,2574,0.79,359451,324249,90.21,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kerewan,North Bank,Adama Barrow,NPP,56861,57.79,109262,98398,90.06,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kerewan,North Bank,Ousainou Darboe,UDP,26191,26.62,109262,98398,90.06,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kerewan,North Bank,Mama Kandeh,GDC,9453,9.61,109262,98398,90.06,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kerewan,North Bank,Halifa Sallah,PDOIS,2606,2.65,109262,98398,90.06,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kerewan,North Bank,Essa Faal,Independent,1996,2.03,109262,98398,90.06,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Kerewan,North Bank,Abdoulie Ebrima Jammeh,NUP,1291,1.31,109262,98398,90.06,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Mansakonko,Lower River,Adama Barrow,NPP,22693,46.25,54456,49069,90.11,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Mansakonko,Lower River,Ousainou Darboe,UDP,22553,45.96,54456,49069,90.11,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Mansakonko,Lower River,Mama Kandeh,GDC,2199,4.48,54456,49069,90.11,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Mansakonko,Lower River,Halifa Sallah,PDOIS,434,0.88,54456,49069,90.11,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Mansakonko,Lower River,Essa Faal,Independent,567,1.16,54456,49069,90.11,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Mansakonko,Lower River,Abdoulie Ebrima Jammeh,NUP,623,1.27,54456,49069,90.11,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Janjanbureh,Central River,Adama Barrow,NPP,68500,64.35,119606,106451,89.0,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Janjanbureh,Central River,Ousainou Darboe,UDP,22185,20.84,119606,106451,89.0,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Janjanbureh,Central River,Mama Kandeh,GDC,10016,9.41,119606,106451,89.0,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Janjanbureh,Central River,Halifa Sallah,PDOIS,2092,1.97,119606,106451,89.0,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Janjanbureh,Central River,Essa Faal,Independent,2117,1.99,119606,106451,89.0,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Janjanbureh,Central River,Abdoulie Ebrima Jammeh,NUP,1541,1.45,119606,106451,89.0,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Basse,Upper River,Adama Barrow,NPP,75378,74.82,118210,100751,85.23,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Basse,Upper River,Ousainou Darboe,UDP,9902,9.83,118210,100751,85.23,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Basse,Upper River,Mama Kandeh,GDC,9805,9.73,118210,100751,85.23,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Basse,Upper River,Halifa Sallah,PDOIS,2855,2.83,118210,100751,85.23,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Basse,Upper River,Essa Faal,Independent,1307,1.3,118210,100751,85.23,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,Basse,Upper River,Abdoulie Ebrima Jammeh,NUP,1504,1.49,118210,100751,85.23,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,National,,Adama Barrow,NPP,457519,53.23,962157,859567,89.34,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,National,,Ousainou Darboe,UDP,238253,27.72,962157,859567,89.34,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,National,,Mama Kandeh,GDC,105902,12.32,962157,859567,89.34,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,National,,Halifa Sallah,PDOIS,32435,3.77,962157,859567,89.34,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,National,,Essa Faal,Independent,17206,2.0,962157,859567,89.34,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
+2021,4 December 2021,National,,Abdoulie Ebrima Jammeh,NUP,8252,0.96,962157,859567,89.34,https://iec.gm/wp-content/uploads/2025/07/Presidential-Election-Results-4th-December-2021.pdf
